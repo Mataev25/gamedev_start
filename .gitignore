@@ -1,16 +1,1 @@
-# Файлы Visual Studio
-.vs/               
-*.vcxproj         
-*.vcxproj.filters
-*.vcxproj.user    
-*.sln             
-*.suo             
-*.opensdf        
-*.sdf             
-*.db              
-
-# CMake
-/CMakeCache.txt
-/CMakeFiles/
-/cmake_install.cmake
-/Makefile
+build
